@@ -1,0 +1,542 @@
+textID	fileID	#words	genre	date	country	language(s)	IMDB	seriesID	series	title
+-----	-----	-----	-----	-----	-----	-----	-----	-----	-----	-----
+
+1680841	4677057	1971	Drama, Family, Music	2010	Australia	English	1680841	1551948	Dance Academy	Fairest and Best
+1672941	4676251	2781	Drama, Family, Music	2010	Australia	English	1672941	1551948	Dance Academy	Through the Looking Glass
+1650741	5458997	6787	Comedy, Drama	2010	Australia	English	1650741	1587000	Rake	R vs Marx
+2121041	5541341	6486	Comedy, Drama	2012	Australia	English	2121041	1587000	Rake	R vs Mohammed
+1480141	4330356	5188	Action	2009	Australia	English	1480141	0879688	Sea Patrol	Secret Cargo
+1564341	4955100	5337	Crime, Drama, Mystery	2010	Australia	English	1564341	1119176	Underbelly	Fall Guy
+1566341	5099026	5540	Crime, Drama, Mystery	2010	Australia	English	1566341	1119176	Underbelly	Saving Face
+1587441	3823687	3421	Comedy	2010	Canada	English	1587441	1411254	18 to Life	Phil 'Er Up
+512241	5895875	3154	Action, Adventure, Drama	2002	Canada	English	0512241	0213327	Andromeda	For Whom the Bell Tolls
+514441	6235267	2017	Drama, Family, Fantasy	1994	Canada	English	0514441	0103352	Are You Afraid of the Dark?	The Tale of the Renegade Virus
+1444841	3631716	4587	Action, Drama, Sci-Fi	2010	Canada	English, Greek	1444841	0799862	Caprica	Rebirth
+2243841	4633958	3366	Action, Sci-Fi, Thriller	2012	Canada	English	2243841	1954347	Continuum	A Stitch in Time
+546141	3512103	3148	Comedy	2005	Canada	English	0546141	0397138	Corner Gas	Will and Brent
+1944141	6525775	3565	Comedy	2011	Canada	English	1944141	1609540	Dan for Mayor	A Rink by Any Other Name
+1982241	6525806	3740	Comedy	2011	Canada	English	1982241	1609540	Dan for Mayor	Pot Divorce
+1871541	6521317	2980	Drama, Romance	2011	Canada	English	1871541	0288937	Degrassi: The Next Generation	Mr. Brightside: Part 1
+568641	6202884	4208	Action, Drama, Mystery	1999	Canada	English	0568641	0123816	Earth: Final Conflict	Bliss
+1523741	5057991	4994	Action, Crime, Drama	2009	Canada	English	1523741	1059475	Flashpoint	Just a Man
+1390441	6578121	2320	Drama, Fantasy, Mystery	2009	Canada	English	1390441	1332071	Forbidden Science	Property: Part 1
+581641	4308124	4680	Crime, Drama, Horror	1992	Canada	English, French	0581641	0103417	Forever Knight	Only the Lonely
+583341	6526347	3469	Horror	1988	Canada	English	0583341	0092357	Friday the 13th: The Series	The Electrocutioner
+591341	5819783	2145	Family, Fantasy, Horror	1997	Canada	English	0591341	0111987	Goosebumps	Don't Go to Sleep
+1361041	6196771	5024	Drama, Family	2009	Canada	English	1361041	1094229	Heartland	Seismic Shifts
+1605241	6411676	5846	Drama, Family	2010	Canada	English	1605241	1094229	Heartland	Second Chances
+2043141	5139189	6022	Drama, Family	2011	Canada	English	2043141	1094229	Heartland	Over the Rise
+601341	4866056	3830	Action, Adventure, Fantasy	1993	Canada	English	0601341	0103442	Highlander	Avenging Angel
+601441	3121757	3474	Action, Adventure, Fantasy	1995	Canada	English	0601441	0103442	Highlander	They Also Serve
+1719841	4110817	3189	Comedy	2011	Canada	English	1719841	1691602	InSecurity	The Kwan Identity
+624241	4367149	2895	Action, Drama, Romance	1998	Canada	English	0624241	0118379	La Femme Nikita	Psychic Pilgrim
+1614741	4331933	4972	Crime, Drama, Mystery	2010	Canada	English	1614741	1091909	Murdoch Mysteries	Rich Boy, Poor Boy
+2198841	6554398	5381	Crime, Drama, Mystery	2012	Canada	English	2198841	1091909	Murdoch Mysteries	Murdoch at the Opera
+2133741	6554417	5104	Crime, Drama, Mystery	2013	Canada	English	2133741	1091909	Murdoch Mysteries	Murdoch and the Cloud of Doom
+654341	4367287	3942	Action, Adventure, Drama	2002	Canada	English	0654341	0283203	Mutant X	Presumed Guilty
+676641	4348540	4243	Horror, Sci-Fi	1996	Canada	English	0676641	0115317	Poltergeist: The Legacy	The Dark Priest
+683341	4328634	5675	Drama, Mystery, Sci-Fi	2006	Canada	English	0683341	0429422	ReGenesis	Dim & Dimmer
+1079241	6025505	1273	Crime, Mystery, Sci-Fi	2007	Canada	English	1079241	1302522	Sanctuary	Episode #1.6
+1720541	4167456	5927	Drama, Sci-Fi	2011	Canada	English	1720541	1286039	SGU Stargate Universe	Seizure
+1984041	4478210	2902	Comedy, Horror, Sci-Fi	2011	Canada	English	1984041	1558128	Todd and the Book of Pure Evil	The Student Body
+2309741	4631540	1659	Animation, Action, Adventure	2012	Canada	English	2309741	2139371	Transformers: Rescue Bots	Walk on the Wild Side
+636141	3783819	3667	Action, Sci-Fi, Adventure	1999	Canada, Australia	English	0636141	0240278	The Lost World	Out of Time
+1813841	4142686	3907	Drama, Fantasy, Horror	2011	Canada, USA	English	1813841	1595680	Being Human	Dog Eat Dog
+2032641	4470493	3912	Drama, Fantasy, Horror	2012	Canada, USA	English	2032641	1595680	Being Human	Addicted to Love
+567041	3091484	4159	Adventure, Comedy, Crime	1995	Canada, USA	English	0567041	0108756	Due South	Letting Go
+2391441	5175894	3725	Crime, Drama, Fantasy	2012	Canada, USA	English	2391441	1519931	Haven	Real Estate
+684741	3941285	4030	Fantasy, Mystery, Adventure	2001	France	English	0684741	0207919	Relic Hunter	Out of the Past
+714541	5074759	2350	Comedy, Drama	1994	France	English	0714541	0108949	Sweet Valley High	Skin and Bones
+1863941	4134808	3612	Comedy	2011	Ireland	English	1863941	1819022	Mrs. Brown's Boys	Mammy Rides Again
+1652941	3678421	4357	Drama, History, Romance	2010	Ireland, Canada, UK, USA	English	1652941	0758790	The Tudors	You Have My Permission
+1168341	4995056	725	Animation, Action, Adventure	1997	Japan	English	1168341	0214341	Dragon Ball Z	Vegeta... Saiyan Style!
+2280041	6099268	1836	Animation, Adventure, Family	2011	Netherlands	English	2280041	2203143	Mia and Me	Talking to Unicorns
+500341	212386	3988	Comedy, History, War	1986	UK	English	0500341	0086659	'Allo 'Allo!	Gruber Does Some Mincing
+758141	4284570	4194	Comedy	1990	UK	English	0758141	0101049	A Bit of Fry and Laurie	Episode #2.4
+1246341	6079639	4650	Thriller	1987	UK	English	1246341	0092425	A Perfect Spy	Episode #1.3
+509041	6496586	5947	Comedy, Drama	1980	UK	English	0509041	0075472	All Creatures Great and Small	If Wishes Were Horses
+515641	3559914	3708	Comedy, Romance	2000	UK	English	0515641	0105943	As Time Goes By	Animal Magnetism
+814641	4282850	3241	Comedy	1995	UK	English	0814641	0103376	Bottom	Hole
+530641	4282852	3013	Comedy	1995	UK	English	0530641	0103376	Bottom	Terror
+539941	4290761	3851	Comedy	1993	UK	English	0539941	0108723	Chef!	Fame Is the Spur
+818341	4553020	6576	Documentary, History	1978	UK	English	0818341	0078588	Connections	The Trigger Effect
+2307241	5072026	7017	Comedy, Crime, Sci-Fi	2012	UK	English	2307241	2303367	Dirk Gently	Episode #1.1
+819441	5174057	2457	Adventure, Drama, Family	1963	UK	English	0819441	0056751	Doctor Who	The Survivors
+811341	5564763	2072	Adventure, Drama, Family	1969	UK	English	0811341	0056751	Doctor Who	The Seeds of Death: Episode Three
+811241	5066613	2465	Adventure, Drama, Family	1973	UK	English	0811241	0056751	Doctor Who	Frontier in Space: Episode Six
+811741	5599808	2947	Adventure, Drama, Family	1977	UK	English	0811741	0056751	Doctor Who	The Sun Makers: Part Four
+562941	5599833	2875	Adventure, Drama, Family	1978	UK	English	0562941	0056751	Doctor Who	The Pirate Planet: Part One
+811841	5602173	2241	Adventure, Drama, Family	1983	UK	English	0811841	0056751	Doctor Who	Snakedance: Part Four
+562841	5604798	2803	Adventure, Drama, Family	1987	UK	English	0562841	0056751	Doctor Who	Dragonfire: Part One
+1795141	4549476	5247	Adventure, Drama, Family	2011	UK	English	1795141	0436992	Doctor Who	Closing Time
+1261541	4464903	1605	Documentary	2008	UK	English	1261541	1034227	Francesco's Mediterranean Voyage	Bosnia and Dubrovnik
+2095241	5134004	3781	Documentary	2011	UK	English, Russian	2095241	2092588	Frozen Planet	Autumn
+2300041	6428214	6237	Comedy, Drama, Reality-TV	2012	UK	English	2300041	1960255	Geordie Shore	Episode #2.5
+1819941	5062181	4653	Documentary	2011	UK	English	1819941	1806234	Human Planet	Deserts: Life in the Furnace
+1244941	6105927	2887	Comedy	2008	UK	English	1244941	0417332	Ideal	The War
+611641	4390852	11113	Crime, Drama, Mystery	1989	UK	English	0611641	0092379	Inspector Morse	Ghost in the Machine
+619141	4292735	2846	Comedy	1992	UK	English	0619141	0098837	Keeping Up Appearances	Early Retirement
+632941	4283682	3334	Comedy	2004	UK	English	0632941	0358856	Little Britain	Episode #2.3
+855541	6016963	5279	Comedy, Crime, Drama	1992	UK	English	0855541	0090477	Lovejoy	Highland Fling: Part Two
+637241	6017006	5341	Comedy, Crime, Drama	1993	UK	English	0637241	0090477	Lovejoy	The Price of Fish
+1850141	4143160	3062	Drama	2011	UK	English	1850141	1834598	Marchlands	Episode #1.5
+846541	4668184	3908	Documentary, History	2004	UK	English	0846541	0398514	Medieval Lives	The Damsel
+707341	182648	7154	Drama, Thriller	2004	UK	English	0707341	0160904	MI-5	Episode #3.6
+1139241	4306313	4736	Drama, Thriller	2007	UK	English	1139241	0160904	MI-5	Episode #6.5
+1765241	4661736	8457	Documentary	2010	UK	English	1765241	1735365	Michael Wood's Story of England	Henry VIII to the Industrial Revolution
+941841	4309134	2736	Comedy	1978	UK	English	0941841	0075537	Mind Your Language	All Present If Not Correct
+651841	4408841	233	Comedy, Family	1994	UK	English	0651841	0096657	Mr. Bean	Do-It-Yourself Mr. Bean
+653341	6101072	3125	Comedy	1996	UK	English	0653341	0101149	Murder Most Horrid	Dead on Time
+781241	4954710	4307	Comedy	2006	UK	English	0781241	0257315	My Family	Dentally Unstable
+992341	4637131	3711	Comedy	2007	UK	English	0992341	0257315	My Family	The Ego Has Landed
+1326041	242234	5835	Drama, Romance	2004	UK	English	1326041	0417349	North & South	Episode #1.2
+2365341	5614187	3461	Comedy	2012	UK	English	2365341	0862614	Not Going Out	Camping
+666541	4185579	4512	Comedy	1981	UK	English	0666541	0081912	Only Fools and Horses....	Christmas Crackers
+279441	6409135	5968	Drama, Horror, Sci-Fi	1965	UK	English	0279441	0058836	Out of the Unknown	Stranger in the Family
+152141	5126254	11443	Comedy, Drama	1971	UK	English	0152141	0165592	Play for Today	The Rank and File
+2209341	4917044	5004	Drama	2012	UK	English	2209341	2188249	Prisoners Wives	Episode #1.4
+681041	3946948	4913	Comedy, Game-Show	2004	UK	English	0681041	0380136	QI	Bombs
+684141	4851959	2600	Comedy, Sci-Fi	1999	UK	English	0684141	0094535	Red Dwarf	Back in the Red: Part 2
+836441	4328628	4012	Action, Adventure, Comedy	2006	UK	English	0836441	0787985	Robin Hood	Dead Man Walking
+1278941	5500931	3717	Action, Adventure, Comedy	2009	UK	English	1278941	0787985	Robin Hood	The Enemy of My Enemy
+2223241	4496404	6081	Crime, Drama	2012	UK	English	2223241	1843678	Scott & Bailey	Episode #2.2
+698941	4308544	5103	Comedy, Crime, Drama	2005	UK	English	0698941	0377260	Shameless	Episode #2.5
+2056241	5580184	5072	Comedy, Crime, Drama	2011	UK	English	2056241	0377260	Shameless	Episode #8.17
+1043341	3131833	111	Animation, Short, Comedy	2007	UK	English	1043341	0983983	Shaun the Sheep	Shaun Shoots the Sheep
+1300041	3361731	5925	Crime, Drama, Mystery	2008	UK	English	1300041	0115355	Silent Witness	The Lost Child: Part 2
+831241	5685182	4957	Comedy	2006	UK	English	0831241	0810722	Sinchronicity	Episode #1.1
+946641	4296856	3785	Drama	2007	UK	English	0946641	0840196	Skins	Sid
+1211741	3268255	3542	Drama	2008	UK	English	1211741	0840196	Skins	Jal
+2061441	4461288	3532	Drama	2012	UK	English	2061441	0840196	Skins	Rich
+706341	4314425	2878	Adventure, Drama, Sci-Fi	1976	UK	English	0706341	0072564	Space: 1999	The Exiles
+713841	4394756	7017	Drama, Sci-Fi	1976	UK	English	0713841	0072572	Survivors	By Bread Alone
+1475041	5861734	3642	Comedy	2009	UK	English	1475041	0499410	That Mitchell and Webb Look	Episode #3.6
+1706241	6017182	4220	Comedy	2010	UK	English	1706241	0499410	That Mitchell and Webb Look	Episode #4.5
+516941	7039121	7018	Action, Comedy, Crime	1964	UK	English	0516941	0054518	The Avengers	The White Elephant
+516841	6867876	3185	Action, Comedy, Crime	1967	UK	English	0516841	0054518	The Avengers	From Venus with Love
+964241	4307878	5817	Documentary, History	1985	UK	English	0964241	0199208	The Day the Universe Changed	What the Doctor Ordered: Social Impacts of New Medical Knowledge
+2087541	6840769	6835	Documentary, History	2011	UK	English	2087541	2044056	The Story of Film: An Odyssey	European New Wave
+844241	4318802	3866	Documentary	1990	UK	English	0844241	0133318	The Trials of Life	Courting
+1110841	6764766	3138	Fantasy	1994	UK	English	1110841	0108987	The Wanderer	See No Evil
+1203441	4352322	369	Animation, Comedy, Family	1984	UK	English	1203441	0086815	Thomas the Tank Engine & Friends	Thomas, Terence and the Snow
+735641	4649816	2473	Action, Sci-Fi	1970	UK	English	0735641	0063962	UFO	The Square Triangle
+743341	7043583	3766	Comedy	1990	UK	English	0743341	0098945	Waiting for God	Welcome to Bayview
+1215441	3458024	5408	Crime, Drama, Mystery	2008	UK	English	1215441	0259733	Waking the Dead	Missing Persons: Part 1
+1862441	4287982	6019	Crime, Drama, Mystery	2011	UK	English	1862441	0259733	Waking the Dead	Harbinger: Part 2
+1263641	4651638	9183	Drama	1999	UK	English, French, Amharic	1263641	0215364	Wives and Daughters	Episode #1.3
+751841	4913708	4058	Comedy	1986	UK	English	0751841	0086831	Yes, Prime Minister	The Smoke Screen
+752041	4939819	6995	Comedy	1990	UK	English	0752041	0124218	You Rang, M'Lord?	Beg, Borrow or Steal
+526541	5020773	3015	Comedy	1983	UK, Australia	English	0526541	0084988	The Black Adder	The Foretelling
+631341	4319361	3756	Adventure, Sci-Fi, Fantasy	2001	UK, Canada	English	0631341	0178149	Lexx	Vlad
+1122441	3596262	3124	Adventure, Drama	2008	UK, Canada, South Africa	English	1122441	1117552	Crusoe	Sacrifice
+1021141	3436907	2956	Comedy, Romance	2007	USA	English	1021141	0759475	'Til Death	Webby's Not Happy
+502241	4292384	4833	Action, Crime, Drama	2005	USA	English, Chinese	0502241	0285331	24	Day 4: 2:00 a.m.-3:00 a.m.
+1091241	3473836	4653	Action, Crime, Drama	2009	USA	English	1091241	0285331	24	Day 7: 10:00 p.m.-11:00 p.m.
+1248341	4367011	3108	Comedy	2008	USA	English	1248341	0496424	30 Rock	Believe in the Stars
+502741	5006662	2920	Comedy, Family, Sci-Fi	1996	USA	English	0502741	0115082	3rd Rock from the Sun	Truth or Dick
+503741	3595290	6364	Drama, Family, Romance	2004	USA	English	0503741	0115083	7th Heaven	The Prodigal Father
+1635841	4179249	4685	Comedy, Drama, Romance	2011	USA	English	1635841	1225901	90210	To the Future!
+2104141	4445080	5648	Drama, Fantasy	2012	USA	English	2104141	1820742	A Gifted Man	In Case of a Bolt from the Blue
+504941	4365046	3377	Comedy, Romance	2002	USA	English	0504941	0285351	According to Jim	Under Pressure
+2042741	5187461	1489	Animation, Action, Adventure	2011	USA	English, Korean	2042741	1305826	Adventure Time	What Was Missing
+2386441	5979133	1155	Animation, Action, Adventure	2012	USA	English, Korean	2386441	1305826	Adventure Time	Hug Wolf
+507141	7072516	3159	Action, Adventure, Sci-Fi	1984	USA	English	0507141	0086662	Airwolf	Firestorm
+504441	4387044	2196	Comedy, Family, Sci-Fi	1989	USA	English	0504441	0090390	ALF	Standing in the Shadows of Love
+508241	3595805	3329	Crime, Drama, Mystery	1955	USA	English	0508241	0047708	Alfred Hitchcock Presents	Santa Claus and the Tenth Avenue Kid
+508141	3595762	2956	Crime, Drama, Mystery	1956	USA	English	0508141	0047708	Alfred Hitchcock Presents	Conversation Over a Corpse
+508641	4056743	3945	Action, Drama, Mystery	2003	USA	English, Bulgarian, Arabic, Cantonese, French, German, Hebre	0508641	0285333	Alias	Second Double
+508541	6343053	5302	Western	1971	USA	English	0508541	0066625	Alias Smith and Jones	Journey from San Juan
+510341	214547	4733	Comedy, Drama, Fantasy	2000	USA	English	0510341	0118254	Ally McBeal	Sex, Lies and Second Thoughts
+2008041	4237619	5633	Action, Drama, Sci-Fi	2011	USA	English	2008041	1183865	Alphas	Blind Spot
+1717241	4215466	6184	Game-Show, Reality-TV	2010	USA	English	1717241	0363307	America's Next Top Model	Welcome to High Fashion
+511641	3253553	3056	Animation, Comedy	2005	USA	English	0511641	0397306	American Dad!	Stan Knows Best
+1589641	3641093	2456	Animation, Comedy	2010	USA	English	1589641	0397306	American Dad!	May the Best Stan Win
+1640741	4066226	3054	Animation, Comedy	2011	USA	English	1640741	0397306	American Dad!	Stanny Boy and Frantastic
+2040641	4542356	2691	Animation, Comedy	2012	USA	English	2040641	0397306	American Dad!	Ricky Spanish
+511841	6333857	2756	Game-Show, Music, Reality-TV	2004	USA	English	0511841	0319931	American Idol	Episode #3.23
+512841	163620	3993	Action, Drama, Fantasy	2000	USA	English	0512841	0162065	Angel	Dear Boy
+2196241	4981691	3118	Comedy	2012	USA	English	2196241	1826989	Are You There, Chelsea?	The Gynecologist
+1695441	3757198	4515	Drama, Romance, War	2010	USA	English	1695441	0859592	Army Wives	Murder in Charleston
+1648241	3739859	5061	Drama, Romance, War	2010	USA	English	1648241	0859592	Army Wives	New Orders
+2207841	4691675	5497	Drama, Romance, War	2012	USA	English	2207841	0859592	Army Wives	System Failure
+515241	4836454	3751	Comedy	2005	USA	English	0515241	0367279	Arrested Development	Righteous Brothers
+831941	4348887	2441	Animation, Action, Adventure	2006	USA	English	0831941	0417299	Avatar: The Last Airbender	The Guru
+888741	4898591	1974	Animation, Action, Adventure	2007	USA	English	0888741	0417299	Avatar: The Last Airbender	Sokka's Master
+1133641	3168489	1877	Animation, Action, Adventure	2007	USA	English	1133641	0417299	Avatar: The Last Airbender	The Day of Black Sun: Part 1 - The Invasion
+2256141	4496308	5802	Drama, Fantasy, Mystery	2012	USA	English	2256141	1839683	Awake	Kate Is Enough
+517641	4015453	4974	Action, Adventure, Drama	1995	USA	English	0517641	0105946	Babylon 5	Convictions
+1896441	4170681	2024	Sci-Fi	2011	USA	English	1896441	1786211	Bar Karma	Man Walks Out of a Bar
+519541	6102264	2497	Action, Adventure, Comedy	1967	USA	English	0519541	0059968	Batman	The Ogg and I
+519441	6464754	1800	Adventure, Animation, Action	2001	USA	English	0519441	0147746	Batman Beyond	Unmasked
+519641	4631915	1586	Animation, Action, Adventure	1993	USA	English	0519641	0103359	Batman: The Animated Series	The Worry Men
+1481441	4637858	1609	Animation, Action, Adventure	2010	USA	English	1481441	1213218	Batman: The Brave and the Bold	Chill of the Night!
+519741	4732370	5307	Action, Adventure, Sci-Fi	1979	USA	English	0519741	0076984	Battlestar Galactica	Experiment in Terra
+2070041	4420709	5129	Adventure, Comedy, Drama	2011	USA	English	2070041	1149608	Being Erica	Erica's Adventures in Wonderland
+1402241	3482158	2805	Comedy, Sci-Fi	2009	USA	English	1402241	1235547	Better Off Ted	Heroes
+522741	6176553	5480	Drama, Romance	1995	USA	English	0522741	0098749	Beverly Hills, 90210	Angels We Have Heard on High
+523141	4394516	2419	Comedy, Family, Fantasy	1965	USA	English	0523141	0057733	Bewitched	My Grandson, the Warlock
+758741	3115190	3094	Romance	2006	USA	English	0758741	0805660	Big Day	Pilot
+920941	3115193	3000	Romance	2006	USA	English	0920941	0805660	Big Day	The Bachelor Party
+1075441	3620829	5531	Drama	2009	USA	English	1075441	0421030	Big Love	Come, Ye Saints
+1720641	6532941	2292	Comedy, Family, Musical	2010	USA	English	1720641	1131746	Big Time Rush	Big Time Halloween
+2123441	4480105	5327	Crime, Drama	2012	USA	English	2123441	1587669	Body of Proof	Home Invasion
+1248441	4350246	6671	Comedy, Crime, Drama	2009	USA	English	1248441	0460627	Bones	The Doctor in the Den
+1795741	6050659	3429	Comedy, Crime, Drama	2011	USA	English	1795741	1255913	Bored to Death	I Keep Taking Baths Like Lady Macbeth
+530941	6261140	3118	Comedy, Drama, Family	1996	USA	English	0530941	0105958	Boy Meets World	Singled Out
+530841	5718355	2916	Comedy, Drama, Family	1998	USA	English	0530841	0105958	Boy Meets World	And Then There Was Shawn
+988241	3158156	6257	Drama	2007	USA	English	0988241	0758737	Brothers & Sisters	Domestic Issues
+1263141	6339510	7210	Drama	2008	USA	English	1263141	0758737	Brothers & Sisters	Everything Must Go
+533441	4614965	4986	Action, Drama, Fantasy	2002	USA	English	0533441	0118276	Buffy the Vampire Slayer	Him
+1082941	4338995	6166	Action, Crime, Drama	2008	USA	English	1082941	0810788	Burn Notice	Trust Me
+1143241	3332362	3432	Comedy, Drama	2008	USA	English	1143241	0904208	Californication	Slip of the Tongue
+1656241	4097428	3973	Comedy, Drama	2011	USA	English	1656241	0904208	Californication	Lawyers, Guns and Money
+784241	6548916	2218	Animation, Adventure, Comedy	1990	USA	English	0784241	0098763	Captain Planet and the Planeteers	Rain of Terror
+539441	3919593	4409	Drama, Fantasy, Mystery	1999	USA	English	0539441	0158552	Charmed	That Old Black Magic
+539341	4884680	8893	Drama, Fantasy, Mystery	2001	USA	English	0539341	0158552	Charmed	Charmed Again: Part 1
+539841	4287492	3432	Comedy, Drama	1986	USA	English	0539841	0083399	Cheers	Relief Bartender
+1854441	4822297	1744	Comedy	2011	USA	English	1854441	1325113	Childrens Hospital	Munch by Proxy
+542941	4341988	6329	Drama	2005	USA	English	0542941	0460631	Close to Home	Suburban Prostitution
+543941	3289615	4645	Crime, Drama, Mystery	2003	USA	English	0543941	0368479	Cold Case	Our Boy Is Back
+798741	3396485	4350	Crime, Drama, Mystery	2006	USA	English	0798741	0368479	Cold Case	Joseph
+945741	4038370	3765	Crime, Drama, Mystery	2007	USA	English	0945741	0368479	Cold Case	Shuffle, Ball Change
+1282641	5492026	4832	Documentary, History	1998	USA	English, Russian, German, Polish, Italian, Pushto, Czech, Gr	1282641	0170896	Cold War	Marshall Plan
+144141	5793297	9469	Crime, Drama, Mystery	1998	USA	English	0144141	1466074	Columbo	Ashes to Ashes
+544541	6048181	2284	Action, Drama, War	1963	USA	English	0544541	0055666	Combat!	No Time for Pity
+2273941	4636823	4791	Comedy, Crime	2012	USA	English	2273941	1771072	Common Law	Gun!
+1503241	4350971	2912	Comedy	2009	USA	English	1503241	1439629	Community	Spanish 101
+1612641	4350987	3229	Comedy	2010	USA	English	1612641	1439629	Community	Basic Genealogy
+1609241	4384446	3463	Comedy, Romance	2010	USA	English	1609241	1441109	Cougar Town	Turn This Car Around
+2107941	4421276	4415	Action, Crime, Drama	2011	USA	English	2107941	1495708	Covert Affairs	What's the Frequency, Kenneth?
+1298141	3505550	5423	Drama	2008	USA	English, Korean	1298141	1178636	Crash	TF-36, Sprint Left, T-4
+1422241	6037782	5159	Crime, Drama, Mystery	2009	USA	English	1422241	0452046	Criminal Minds	To Hell... And Back
+1583441	6423868	5134	Crime, Drama, Mystery	2010	USA	English	1583441	0452046	Criminal Minds	Parasite
+550641	3465595	5692	Crime, Drama, Mystery	2002	USA	English	0550641	0284718	Crossing Jordan	Blood Relatives
+534741	73987	4774	Crime, Drama, Mystery	2001	USA	English	0534741	0247082	CSI: Crime Scene Investigation	Sounds of Silence
+534641	5477476	4017	Crime, Drama, Mystery	2003	USA	English	0534641	0247082	CSI: Crime Scene Investigation	All for Our Country
+1114941	3161946	4201	Crime, Drama, Mystery	2007	USA	English	1114941	0247082	CSI: Crime Scene Investigation	Goodbye and Good Luck
+1640841	3908404	5148	Crime, Drama, Mystery	2010	USA	English	1640841	0247082	CSI: Crime Scene Investigation	House of Hoarders
+534841	4337382	4417	Action, Crime, Drama	2003	USA	English	0534841	0313043	CSI: Miami	Spring Break
+2098041	4430548	4814	Action, Crime, Drama	2011	USA	English	2098041	0313043	CSI: Miami	Crowned
+553241	6684698	3890	Adventure, Family	1966	USA	English	0553241	0059977	Daktari	Shoot to Kill
+1145641	6684710	4554	Adventure, Family	1967	USA	English	1145641	0059977	Daktari	Judy and the Astro-Chimp
+1554141	6684729	5022	Adventure, Family	1967	USA	English	1554141	0059977	Daktari	The Elephant Raid: Part 2
+763141	3596300	4828	Drama, Romance	1979	USA	English	0763141	0077000	Dallas	Mastectomy: Part 2
+553341	3596314	5772	Drama, Romance	1980	USA	English	0553341	0077000	Dallas	Jock's Trial: Part 1
+553441	3596334	6824	Drama, Romance	1986	USA	English	0553441	0077000	Dallas	The Deadly Game
+1141841	6578704	4875	Crime, Drama, Mystery	2010	USA	English	1141841	0914387	Damages	The Next One's Gonna Go in Your Throat
+554541	4272521	3145	Animation, Comedy, Drama	1997	USA	English	0554541	0118298	Daria	The Misery Chick
+772441	4289611	2913	Animation, Comedy, Drama	1999	USA	English	0772441	0118298	Daria	Lane Miserables
+1348541	4340982	1550	Animation, Comedy, Family	1969	USA	English	1348541	0063889	Dastardly and Muttley in Their Flying Machines	Sky Hi-IQ/Prop Wash/Carpet/The Marvelous Muttdini/A Plain Shortage of Planes
+555141	4374817	4965	Drama, Romance	2002	USA	English	0555141	0118300	Dawson's Creek	Living Dead Girl
+883641	3102607	4858	Action, Drama, Sci-Fi	2007	USA	English	0883641	0801425	Day Break	What If They're Connected?
+1004141	3120410	5424	Comedy, Drama, Mystery	2007	USA	English	1004141	0410975	Desperate Housewives	Gossip
+559041	4363029	2695	Comedy, Romance	1997	USA	English	0559041	0118303	Dharma & Greg	Haus Arrest
+967641	4319905	2334	Animation, Comedy	1999	USA	English	0967641	0118984	Dilbert	Testing
+1584241	6720018	3674	Animation, Comedy	1998	USA	English	1584241	0111942	Dr. Katz, Professional Therapist	Fanny Pack
+1164241	6791822	4587	Animation, Comedy	1999	USA	English	1164241	0111942	Dr. Katz, Professional Therapist	Used Car
+566941	4395992	2474	Animation, Adventure, Comedy	1987	USA	English	0566941	0092345	DuckTales	Hero for Hire
+567541	6527501	3377	Drama, Romance	1984	USA	English	0567541	0081856	Dynasty	The Rescue
+1638441	3710138	5245	Comedy, Drama	2010	USA	English	1638441	0387199	Entourage	Tequila Sunrise
+568041	4367583	5199	Drama, Romance	2000	USA	English	0568041	0108757	ER	Match Made in Heaven
+567941	4367606	5446	Drama, Romance	2002	USA	English	0567941	0108757	ER	Bygones
+568141	6489914	5209	Drama, Romance	2004	USA	English	0568141	0108757	ER	Touch & Go
+1221641	4345177	5806	Drama, Romance	2008	USA	English, Hebrew	1221641	0108757	ER	The Chicago Way
+574041	161578	6211	Drama	2005	USA	English	0574041	0318883	Everwood	Complex Guilt
+891741	3549208	3175	Comedy	2007	USA	English	0891741	0460637	Everybody Hates Chris	Everybody Hates Hall Monitors
+574141	3595206	2537	Comedy	2002	USA	English	0574141	0115167	Everybody Loves Raymond	Call Me Mom
+574241	3595412	2503	Comedy	2002	USA	English	0574241	0115167	Everybody Loves Raymond	The Cult
+576941	4353430	3170	Animation, Comedy	2000	USA	English	0576941	0182576	Family Guy	I Am Peter, Hear Me Roar
+578141	4863826	4971	Adventure, Drama, Sci-Fi	1999	USA	English	0578141	0187636	Farscape	Throne for a Loss
+578541	4312313	3355	Animation, Comedy	2004	USA	English	0578541	0361179	Father of the Pride	What's Black and White and Depressed All Over?
+1943241	4583463	2306	Crime, Drama, Mystery	2012	USA	English	1943241	1841108	Femme Fatales	Killer Instinct
+579541	3592511	4438	Adventure, Drama, Sci-Fi	2002	USA	English, Mandarin	0579541	0303461	Firefly	War Stories
+582441	4290298	3239	Comedy	1995	USA	English	0582441	0106004	Frasier	Leapin' Lizards
+582541	4224792	2859	Comedy	2002	USA	English	0582541	0106004	Frasier	The Love You Fake
+582341	6314430	3116	Comedy	2004	USA	English	0582341	0106004	Frasier	And Frasier Makes Three
+1031341	4335496	6631	Drama, Sport	2008	USA	English	1031341	0758745	Friday Night Lights	Jumping the Gun
+583541	4370127	2255	Comedy, Romance	1998	USA	English	0583541	0108778	Friends	The One with Phoebe's Uterus
+583641	4373218	2607	Comedy, Romance	1999	USA	English	0583641	0108778	Friends	The One with the Routine
+583441	4373201	5058	Comedy, Romance	2000	USA	English	0583441	0108778	Friends	The One That Could Have Been: Part 1
+1248541	3429771	5239	Drama, Mystery, Sci-Fi	2009	USA	English	1248541	1119644	Fringe	The Transformation
+584141	6541950	2872	Comedy, Drama, Family	1990	USA	English	0584141	0092359	Full House	Good News, Bad News
+584441	6344083	2313	Animation, Comedy, Sci-Fi	1999	USA	English	0584441	0149460	Futurama	Hell Is Other Robots
+585841	5766523	2374	Animation, Action, Adventure	1995	USA	English	0585841	0108783	Gargoyles	Protection
+1498341	4298073	3805	Comedy	2009	USA	English	1498341	1229401	Gary Unmarried	Gary Tries to Do It All
+587541	4393283	3240	Action, Adventure, Comedy	1965	USA	English	0587541	0058805	Get Smart	Now You See Him, Now You Don't
+1212041	3602736	5060	Drama, Fantasy	2008	USA	English	1212041	0460644	Ghost Whisperer	Pater Familias
+588141	4353570	6226	Comedy, Drama	2000	USA	English	0588141	0238784	Gilmore Girls	Forgiveness and Stuff
+885841	3088668	8313	Comedy, Drama	2006	USA	English	0885841	0238784	Gilmore Girls	Introducing Lorelai Planetarium
+2390641	4833491	3655	Comedy, Drama	2012	USA	English	2390641	1723816	Girls	She Did
+1630941	5142570	2622	Comedy, Drama, Family	2010	USA	English	1630941	1415889	Good Luck Charlie	Baby Come Back
+1733841	4375898	5860	Drama, Romance	2010	USA	English	1733841	0413573	Grey's Anatomy	Superfreak
+2373041	6302247	3782	Crime, Drama, Horror	2013	USA	English	2373041	2243973	Hannibal	Trou Normand
+1664241	4162455	3492	Comedy, Romance	2011	USA	English	1664241	1587678	Happy Endings	Pilot
+2257341	4485919	3498	Comedy, Romance	2012	USA	English	2257341	1587678	Happy Endings	The Kerkovich Way
+1797641	4193054	6104	Comedy, Crime, Drama	2011	USA	English	1797641	1582453	Harry's Law	With Friends Like These...
+597641	5615476	2204	Western	1960	USA	English	0597641	0050025	Have Gun - Will Travel	The Pledge
+597541	5615608	2127	Western	1962	USA	English	0597541	0050025	Have Gun - Will Travel	The Mark of Cain
+1721941	3919620	5627	Comedy, Drama	2010	USA	English	1721941	1596356	Hellcats	The Match Game
+599841	160924	4937	Action, Adventure, Drama	1998	USA	English	0599841	0111999	Hercules: The Legendary Journeys	Yes, Virginia, There Is a Hercules
+599741	5018262	3770	Action, Adventure, Drama	1999	USA	English	0599741	0111999	Hercules: The Legendary Journeys	Be Deviled
+1054841	3150945	3278	Drama, Fantasy, Sci-Fi	2007	USA	English, Japanese, Spanish	1054841	0813715	Heroes	Chapter Two 'Lizards'
+601541	6581052	6553	Drama, Fantasy	1986	USA	English	0601541	0086730	Highway to Heaven	Close Encounters of the Heavenly Kind
+602341	5838088	3284	Comedy, War	1966	USA	English	0602341	0058812	Hogan's Heroes	How to Cook a German Goose by Radar
+602441	5838130	3286	Comedy, War	1967	USA	English, German, French	0602441	0058812	Hogan's Heroes	The Tower
+603441	4388189	2986	Comedy, Family	1996	USA	English	0603441	0101120	Home Improvement	Burnin' Love
+2081741	4788740	4613	Crime, Drama, Mystery	2011	USA	English	2081741	1796960	Homeland	Representative Brody
+604441	6839760	4873	Crime, Drama, Mystery	1995	USA	English	0604441	0106028	Homicide: Life on the Street	Thrill of the Kill
+604341	5670187	5714	Crime, Drama, Mystery	1997	USA	English	0604341	0106028	Homicide: Life on the Street	Betrayal
+1712341	4061066	2821	Comedy	2011	USA	English	1712341	1583607	Hot in Cleveland	Free Elka
+2149641	5355922	2818	Comedy	2012	USA	English	2149641	1583607	Hot in Cleveland	How Did You Guys Meet, Anyway?
+606041	4357874	5598	Drama, Mystery	2005	USA	English	0606041	0412142	House M.D.	Sports Medicine
+994241	3121055	5286	Drama, Mystery	2007	USA	English	0994241	0412142	House M.D.	Family
+1178841	3203271	5674	Drama, Mystery	2008	USA	English, Hebrew	1178841	0412142	House M.D.	Don't Ever Change
+2174541	4872572	4721	Comedy, Drama	2012	USA	English	2174541	1797404	House of Lies	Amsterdam
+1982341	4240368	2982	Comedy, Romance	2011	USA	English	1982341	0460649	How I Met Your Mother	The Best Man
+2376741	4535604	3245	Comedy, Romance	2012	USA	English	2376741	0460649	How I Met Your Mother	Good Crazy
+609241	6591303	3301	Comedy, Family	1951	USA	English, Spanish	0609241	0043208	I Love Lucy	Pilot
+609341	6591667	2524	Comedy, Family	1951	USA	English	0609341	0043208	I Love Lucy	The Audition
+1022741	4391501	2746	Comedy	1990	USA	English	1022741	0098830	In Living Color	Veracosa
+613241	6451464	5351	Action, Crime, Drama	1997	USA	English	0613241	0112022	JAG	Defenseless
+613341	5766132	4935	Action, Crime, Drama	2001	USA	English	0613341	0112022	JAG	Retreat, Hell
+616141	4015925	5191	Drama, Fantasy	2004	USA	English	0616141	0367345	Joan of Arcadia	The Book of Questions
+837341	7052482	1517	Animation, Action, Adventure	1965	USA	English	0837341	0057730	Jonny Quest	Monster in the Monastery
+618141	4491337	1497	Animation, Action, Adventure	2002	USA	English	0618141	0275137	Justice League	Fury: Part II
+764041	6681818	3072	Animation, Comedy, Drama	2003	USA	English	0764041	0118375	King of the Hill	Vision Quest
+2373541	4930051	6824	Drama, Sci-Fi	2009	USA	English	2373541	1137462	Kings	Pilot: Goliath - Part 2
+2051341	4246443	7195	Reality-TV	2011	USA	English	2051341	0983514	Kitchen Nightmares	Blackberry's
+620841	4356424	4778	Action, Crime, Drama	1985	USA	English	0620841	0083437	Knight Rider	Knight in Retreat
+621341	4750009	4884	Action, Crime, Drama	1974	USA	English	0621341	0069599	Kojak	Last Rites for a Dead Priest
+621541	178309	5186	Horror, Mystery, Thriller	1974	USA	English	0621541	0071003	Kolchak: The Night Stalker	The Devil's Platform
+2114041	5477795	2156	Animation, Action, Adventure	2011	USA	English	2114041	1545214	Kung Fu Panda: Legends of Awesomeness	Bad Po
+623241	6679898	7062	Action, Crime, Drama	1993	USA	English	0623241	0103460	Kung Fu: The Legend Continues	A Legend Reborn
+625441	5025313	5275	Crime, Drama	2004	USA	English	0625441	0364828	Las Vegas	Good Run of Bad Luck
+2237241	5788686	3360	Comedy	2012	USA	English	2237241	1828327	Last Man Standing	Adrenaline
+629441	6357793	6878	Crime, Drama, Mystery	1999	USA	English	0629441	0098844	Law & Order	Sundown
+1629041	3676355	6582	Crime, Drama, Mystery	2010	USA	English	1629041	0098844	Law & Order	The Taxman Cometh
+629541	5895434	5036	Crime, Drama, Mystery	2002	USA	English	0629541	0275140	Law & Order: Criminal Intent	Homo Homini Lupis
+1710741	3870949	5717	Crime, Drama, Mystery	2010	USA	English	1710741	1657081	Law & Order: LA	Echo Park
+629641	3875966	4674	Crime, Drama, Mystery	2005	USA	English	0629641	0203259	Law & Order: Special Victims Unit	Demons
+629741	4279612	5998	Crime, Drama, Mystery	2005	USA	English	0629741	0203259	Law & Order: Special Victims Unit	Storm
+784441	3875992	7134	Crime, Drama, Mystery	2006	USA	English	0784441	0203259	Law & Order: Special Victims Unit	Venom
+1015441	3876045	6072	Crime, Drama, Mystery	2008	USA	English	1015441	0203259	Law & Order: Special Victims Unit	Cold
+1248641	4369347	5264	Crime, Drama, Mystery	2008	USA	English	1248641	0203259	Law & Order: Special Victims Unit	Persona
+1503441	3575549	6229	Crime, Drama, Mystery	2009	USA	English	1503441	1235099	Lie to Me	Control Factor
+635141	4367370	5379	Adventure, Comedy, Drama	1995	USA	English	0635141	0106057	Lois & Clark: The New Adventures of Superman	Chi of Steel
+1467641	3645445	3515	Adventure, Drama, Fantasy	2010	USA	English, Arabic, Japanese, Korean	1467641	0411008	Lost	Sundown
+636241	6607289	4658	Adventure, Comedy, Family	1965	USA	English	0636241	0058824	Lost in Space	The Sky Is Falling
+824041	4328700	2229	Comedy	2006	USA	English	0824041	0460619	Lucky Louie	Long Weekend
+638341	4377702	2782	Comedy, Drama, War	1973	USA	English	0638341	0068098	M*A*S*H	Kim
+638241	4272195	3934	Comedy, Drama, War	1979	USA	English	0638241	0068098	M*A*S*H	A Night at Rosie's
+639741	5031439	5360	Action, Adventure, Crime	1982	USA	English	0639741	0080240	Magnum, P.I.	The Last Page
+639641	6944246	5397	Action, Adventure, Crime	1983	USA	English	0639641	0080240	Magnum, P.I.	Distant Relative
+1537141	3651853	5399	Drama, Sport	2010	USA	English	1537141	1332030	Make It or Break It	Follow the Leader
+640341	5630344	2038	Comedy, Family	2000	USA	English	0640341	0212671	Malcolm in the Middle	High School Play
+641641	6690418	5359	Action, Crime, Drama	1973	USA	English	0641641	0061277	Mannix	Search for a Whisper
+641541	6710473	3626	Action, Crime, Drama	1974	USA	English	0641541	0061277	Mannix	A Small Favor for an Old Friend
+1887241	4168160	7984	Reality-TV	2011	USA	English	1887241	1663654	Marcel's Quantum Kitchen	Sink or Swim
+642241	4322577	2966	Comedy	1987	USA	English	0642241	0092400	Married with Children	But I Didn't Shoot the Deputy
+642341	3882908	2567	Comedy	1991	USA	English	0642341	0092400	Married with Children	Oldies But Young 'Uns
+1809841	5753876	7032	Action, Drama, History	1981	USA	English	1809841	0081900	Masada	Part III
+1698241	4993172	6561	Game-Show, Reality-TV	2010	USA	English	1698241	1694423	Masterchef	Auditions #2
+850041	4906460	4379	Drama, Sci-Fi	2007	USA	English	0850041	0772139	Masters of Science Fiction	Little Brother
+1683241	3875683	5905	Crime, Drama, Fantasy	2010	USA	English	1683241	0412175	Medium	Means and Ends
+2289041	4615539	3122	Comedy, Drama, Romance	2012	USA	English	2289041	1942919	Men at Work	Wake and Bake
+1015041	3161319	4954	Comedy, Drama, Romance	2007	USA	English	1015041	0805664	Men in Trees	I Wood If I Could
+1637341	4002065	5595	Comedy, Drama	2010	USA	English	1637341	1242441	Men of a Certain Age	If I Could, I Surely Would
+1309541	4328573	4558	Drama	2009	USA	English	1309541	1245695	Mental	House of Mirrors
+647041	4378496	3906	Action, Crime, Drama	1986	USA	English	0647041	0086759	Miami Vice	Better Living Through Chemistry
+647141	4367326	3087	Action, Crime, Drama	1986	USA	English	0647141	0086759	Miami Vice	Yankee Dollar
+756941	4647121	1806	Action, Adventure, Family	1993	USA	English	0756941	0106064	Mighty Morphin Power Rangers	Food Fight
+647641	4697364	1699	Action, Adventure, Family	1994	USA	English	0647641	0106064	Mighty Morphin Power Rangers	Fowl Play
+2083641	4262007	2860	Comedy	2011	USA	English	2083641	1608180	Mike & Molly	Victoria Runs Away
+648241	4366757	3086	Crime, Drama, Horror	1997	USA	English	0648241	0115270	Millennium	Loin Like a Hunting Flame
+1039341	4290714	2829	Comedy	2008	USA	English	1039341	0876235	Miss Guided	Frenemies
+2384341	5809034	3649	Action, Drama, Thriller	2012	USA	English	2384341	1828246	Missing	Promise
+649341	4392761	3023	Action, Adventure, Crime	1967	USA	English	0649341	0060009	Mission: Impossible	The Psychic
+649241	6513971	3411	Action, Adventure, Crime	1972	USA	English	0649241	0060009	Mission: Impossible	Image
+1536241	3977551	3096	Comedy, Romance	2009	USA	English	1536241	1442437	Modern Family	Undeck the Halls
+2087341	4417385	3873	Comedy, Romance	2011	USA	English, Spanish	2087341	1442437	Modern Family	Punkin Chunkin
+650641	3162971	5852	Comedy, Crime, Drama	2002	USA	English	0650641	0312172	Monk	Mr. Monk and the Marathon Man
+1535241	3581228	5750	Comedy, Crime, Drama	2009	USA	English	1535241	0312172	Monk	Mr. Monk and Sharona
+1077041	3162549	4137	Drama, Fantasy, Horror	2007	USA	English	1077041	0955346	Moonlight	12:04 AM
+651241	6084625	3217	Comedy, Family, Sci-Fi	1978	USA	English	0651241	0077053	Mork & Mindy	Mork's Seduction
+941941	5718809	4633	Action, Comedy, Crime	2007	USA	English	0941941	0364845	NCIS	Blowback
+1502141	4384553	5419	Action, Comedy, Crime	2009	USA	English	1502141	0364845	NCIS	Code of Conduct
+1751241	3937044	3688	Action, Crime, Drama	2010	USA	English	1751241	1592154	Nikita	Phoenix
+2256441	4552635	4070	Action, Crime, Drama	2012	USA	English	2256441	1592154	Nikita	Homecoming
+1058341	3180465	5573	Drama	2008	USA	English	1058341	0361217	Nip/Tuck	Magda and Jeff
+1256341	3355342	5797	Crime, Drama, Mystery	2008	USA	English	1256341	0433309	Numb3rs	Blowback
+1627541	4168470	2813	Comedy, Drama	2011	USA	English	1627541	1190689	Nurse Jackie	Rat Falls
+665741	5013230	5326	Drama, Family, Romance	2001	USA	English	0665741	0202198	Once and Again	Won't Someone Please Help George Bailey Tonight
+666241	169620	3805	Drama, Romance, Sport	2005	USA	English	0666241	0368530	One Tree Hill	Somewhere a Clock Is Ticking
+1733941	5078583	2980	Comedy	2010	USA	English	1733941	1593756	Outsourced	Truly, Madly, Pradeeply
+1636241	4103220	3528	Comedy	2011	USA	English	1636241	1266020	Parks and Recreation	Media Blitz
+1400941	3499529	3409	Comedy	2009	USA	English	1400941	1073507	Party Down	Pepper McMasters Singles Seminar
+673341	6797226	6590	Crime, Drama, Mystery	1960	USA	English	0673341	0050051	Perry Mason	The Case of the Mythical Monkeys
+677541	4710235	2039	Action, Comedy, Family	1996	USA	English	0677541	0115319	Power Rangers Zeo	Brother, Can You Spare an Arrowhead?
+1831341	4103157	5774	Comedy, Drama, Romance	2011	USA	English	1831341	0972412	Private Practice	Home Again
+1476741	5139621	6638	Game-Show, Reality-TV	2009	USA	English	1476741	0437741	Project Runway	What a Woman Wants
+2000141	4219759	8559	Game-Show, Reality-TV	2011	USA	English	2000141	0437741	Project Runway	My Pet Project
+1652241	4339599	6997	Comedy, Crime, Mystery	2010	USA	English	1652241	0491738	Psych	Romeo and Juliet and Juliet
+681141	5247958	5037	Action, Adventure, Drama	1990	USA	English	0681141	0096684	Quantum Leap	M.I.A. - April 1, 1969
+681341	3606252	5133	Drama, Romance	2003	USA	English	0681341	0262985	Queer as Folk	The Election
+1457641	3646009	5579	Drama	2009	USA	English	1457641	1001558	Raising the Bar	Making Up Is Hard to Do
+1036341	3267072	5323	Adventure, Comedy, Drama	2008	USA	English	1036341	0955322	Reaper	Acid Queen
+684841	4347016	4821	Action, Adventure, Comedy	1984	USA	English	0684841	0083470	Remington Steele	Dreams of Steele
+1260041	6794143	4694	Drama	1976	USA	English	1260041	0074047	Rich Man, Poor Man - Book II	Chapter V
+688841	4392777	2833	Comedy, Drama	1989	USA	English	0688841	0094540	Roseanne	Mall Story
+1647241	3818397	6151	Comedy, Drama	2010	USA	English	1647241	1319735	Royal Pains	Lovesick
+693041	4142119	2704	Comedy, Family, Fantasy	1996	USA	English	0693041	0115341	Sabrina, the Teenage Witch	Dream Date
+693141	5881700	3472	Comedy, Family, Fantasy	2002	USA	English	0693141	0115341	Sabrina, the Teenage Witch	The Big Head
+694141	4384122	3402	Comedy	1972	USA	English	0694141	0068128	Sanford and Son	The Card Sharps
+816041	3106565	4961	Drama	2006	USA	English	0816041	0756591	Saved	Family
+695541	6743686	5169	Adventure	1986	USA	English	0695541	0085088	Scarecrow and Mrs. King	Wrong Number
+907041	4096958	1681	Animation, Comedy, Family	1969	USA	English	0907041	0063950	Scooby Doo, Where Are You!	Scooby-Doo and a Mummy, Too
+696541	4359069	2746	Comedy, Drama	2004	USA	English	0696541	0285403	Scrubs	His Story II
+696941	4355733	4592	Action, Adventure, Family	1995	USA	English	0696941	0106126	SeaQuest 2032	Something in the Air
+697741	4309885	2785	Comedy	1991	USA	English	0697741	0098904	Seinfeld	The Note
+698641	4342031	3532	Comedy, Drama, Romance	2000	USA	English	0698641	0159206	Sex and the City	Hot Child in the City
+945241	3108864	5871	Crime, Drama, Mystery	2007	USA	English	0945241	0805666	Shark	Blind Trust
+1066941	3282141	6308	Crime, Drama, Mystery	2008	USA	English	1066941	0805666	Shark	Leaving Las Vegas
+2353141	4644576	5270	Comedy, Drama, Romance	2012	USA	English	2353141	1650552	Single Ladies	Still in Love with You
+702741	179976	4082	Adventure, Fantasy, Sci-Fi	1995	USA	English	0702741	0112167	Sliders	Last Days
+702941	5007085	3640	Adventure, Drama, Romance	2001	USA	English	0702941	0279600	Smallville	Craving
+1267041	5448563	4214	Adventure, Drama, Romance	2008	USA	English	1267041	0279600	Smallville	Instinct
+1949941	4220242	3895	Game-Show, Music, Reality-TV	2011	USA	English	1949941	0472023	So You Think You Can Dance	Two of 14 Voted Off
+1631641	3714514	2682	Comedy, Family, Romance	2010	USA	English	1631641	1252374	Sonny with a Chance	Sonny with a Song
+1493541	5547992	3526	Comedy	2010	USA	English	1493541	1361839	Sons of Tucson	Pilot
+705941	3600838	2493	Animation, Comedy	1998	USA	English	0705941	0121955	South Park	Mecha-Streisand
+1397941	3479751	3029	Animation, Comedy	2009	USA	English	1397941	0121955	South Park	Margaritaville
+2128141	4705113	2424	Animation, Comedy	2012	USA	English	2128141	0121955	South Park	A Scause for Applause
+2129641	4491454	2131	Animation, Comedy	2012	USA	English	2129641	0121955	South Park	Reverse Cowgirl
+2209541	4495361	4775	Crime, Drama, Thriller	2012	USA	English	2209541	1299368	Southland	Thursday
+707041	4383304	3452	Comedy	1997	USA	English	0707041	0115369	Spin City	Mayor Over Miami
+707441	190626	4000	Comedy, Drama, Sport	1999	USA	English	0707441	0165961	Sports Night	Sally
+708441	4279026	4012	Action, Adventure, Sci-Fi	1967	USA	English	0708441	0060028	Star Trek	Operation - Annihilate!
+708641	4049656	4690	Action, Adventure, Drama	1996	USA	English	0708641	0106145	Star Trek: Deep Space Nine	Sons of Mogh
+708541	3139166	5394	Action, Adventure, Drama	1997	USA	English	0708541	0106145	Star Trek: Deep Space Nine	Ferengi Love Songs
+572241	4956332	4086	Action, Adventure, Drama	2004	USA	English, Klingon	0572241	0244365	Star Trek: Enterprise	Storm Front: Part 2
+708841	4893699	4928	Action, Adventure, Mystery	1988	USA	English	0708841	0092455	Star Trek: The Next Generation	When the Bough Breaks
+708741	5744557	4180	Action, Adventure, Mystery	1993	USA	English	0708741	0092455	Star Trek: The Next Generation	Lessons
+708941	4839047	5125	Action, Adventure, Sci-Fi	1998	USA	English	0708941	0112178	Star Trek: Voyager	One
+709541	6223577	5511	Action, Crime, Drama	1977	USA	English	0709541	0072567	Starsky and Hutch	Starsky and Hutch Are Guilty
+942141	3102197	6811	Comedy, Drama	2007	USA	English	0942141	0485842	Studio 60 on the Sunset Strip	The Harriet Dinner: Part I
+2037841	4655017	2926	Comedy	2011	USA	English	2037841	1741256	Suburgatory	Halloween
+1977541	4207451	6744	Comedy, Drama	2011	USA	English	1977541	1632701	Suits	Dirty Little Secrets
+713441	5992605	1952	Adventure, Fantasy, Sci-Fi	1989	USA	English	0713441	0094559	Superboy	Metallo
+837741	4289571	3595	Drama, Fantasy, Horror	2006	USA	English	0837741	0460681	Supernatural	Children Shouldn't Play with Dead Things
+855641	4289573	3118	Drama, Fantasy, Horror	2006	USA	English	0855641	0460681	Supernatural	No Exit
+940441	5326875	3539	Drama, Fantasy, Horror	2007	USA	English	0940441	0460681	Supernatural	Born Under a Bad Sign
+1032141	3182391	3385	Drama, Fantasy, Horror	2008	USA	English	1032141	0460681	Supernatural	Malleus Maleficarum
+1498441	4143002	5472	Adventure, Game-Show, Reality-TV	2009	USA	English	1498441	0239195	Survivor	Tastes Like Chicken
+716841	4282899	3034	Comedy, Crime, Fantasy	1989	USA	English	0716841	0096708	Tales from the Crypt	Dig That Cat... He's Real Gone
+716941	6001234	1570	Comedy, Drama, Fantasy	1988	USA	English	0716941	0086814	Tales from the Darkside	Family Reunion
+719041	4664870	1641	Animation, Action, Adventure	2004	USA	English	0719041	0343314	Teen Titans	Wavelength
+767541	5709857	2072	Animation, Action, Adventure	1989	USA	English	0767541	0131613	Teenage Mutant Ninja Turtles	20,000 Leaks Under the City
+868641	5743896	2498	Animation, Action, Adventure	1992	USA	English	0868641	0131613	Teenage Mutant Ninja Turtles	Northern Lights Out
+720141	3118946	2646	Comedy, Romance	2002	USA	English	0720141	0165598	That '70s Show	Over the Hills and Far Away
+504241	4290864	5369	Action, Adventure, Crime	1985	USA	English	0504241	0084967	The A-Team	Where Is the Monster When You Need Him?
+1146941	6374422	3378	Action, Adventure, Family	2007	USA	English	1146941	0285335	The Amazing Race	We've Really Burned Bridges, for Sure
+1136041	3159924	2876	Comedy, Romance	2007	USA	English, Spanish, Cantonese, French	1136041	0898266	The Big Bang Theory	The Dumpling Paradox
+1632241	3890258	2585	Comedy, Romance	2010	USA	English	1632241	0898266	The Big Bang Theory	The Hot Troll Deviation
+2057241	4246441	2559	Comedy, Romance	2011	USA	English	2057241	0898266	The Big Bang Theory	The Pulled Groin Extrapolation
+1692041	3853299	3338	Comedy, Drama	2010	USA	English	1692041	1515193	The Big C	Taking Lumps
+528441	6450488	3720	Comedy	1972	USA	English	0528441	0068049	The Bob Newhart Show	Tracy Grammar School, I'll Lick You Yet
+528341	6733726	3621	Comedy	1974	USA	English	0528341	0068049	The Bob Newhart Show	By the Way... You're Fired
+2285141	5054614	5500	Comedy, Romance	2013	USA	English	2285141	2056366	The Carrie Diaries	Pilot
+865041	3084605	2747	Comedy, Romance	2006	USA	English	0865041	0484082	The Class	The Class Goes Trick-Or-Treating
+1472941	4336721	5593	Crime, Drama, Mystery	2009	USA	English	1472941	0458253	The Closer	Smells Like Murder
+1063741	5086847	3431	Drama, Romance	2007	USA	English	1063741	0493229	The DL Chronicles	Robert
+1548741	3603241	6012	Crime, Drama	2009	USA	English	1548741	1420425	The Forgotten	Lucky John
+583041	183245	2416	Comedy	1991	USA	English	0583041	0098800	The Fresh Prince of Bel-Air	The Big Four-Oh
+582941	4373005	2426	Comedy	1992	USA	English	0582941	0098800	The Fresh Prince of Bel-Air	Asses to Ashes
+583941	4393603	4368	Adventure, Crime, Drama	1965	USA	English	0583941	0056757	The Fugitive	Conspiracy of Silence
+584041	4393613	4381	Adventure, Crime, Drama	1965	USA	English	0584041	0056757	The Fugitive	When the Wind Blows
+589741	5655486	3129	Comedy, Drama	1987	USA	English, Italian, Norwegian	0589741	0088526	The Golden Girls	Empty Nests
+589841	5728252	3392	Comedy, Drama	1987	USA	English	0589841	0088526	The Golden Girls	The Housekeeper
+1718041	3924470	6969	Action, Comedy	2010	USA	English	1718041	1567254	The Good Guys	The Whistleblower
+1878741	4162511	2304	Comedy	2011	USA	English	1878741	1451387	The Hard Times of RJ Berger	Ugly Jenny
+604641	5922132	4501	Comedy, Family	1956	USA	English	0604641	0042114	The Honeymooners	Opportunity Knocks But
+1741441	5098634	3501	Comedy	2010	USA	English	1741441	1695989	The Increasingly Poor Decisions of Todd Margaret	A Plan Is Hatched and a Date Is Not a Date
+1552941	3588579	2720	Comedy	2009	USA	English	1552941	1483024	The Jeff Dunham Show	Achmed Tries to Become a U.S. Citizen
+620141	5494039	3179	Comedy	2000	USA	English	0620141	0165581	The King of Queens	Roast Chicken
+620041	5529389	2762	Comedy	2002	USA	English	0620041	0165581	The King of Queens	Connect Four
+2050341	4404776	3807	Comedy, Sport	2011	USA	English	2050341	1480684	The League	Bobbum Man
+1307241	4308224	3793	Animation, Comedy	2008	USA	English	1307241	0950701	The Life & Times of Tim	Latino Tim/The Priest Is Drunk
+2153641	5552954	5048	Animation, Comedy	2011	USA	English	2153641	0950701	The Life & Times of Tim	Percey Davis Boulevard/Cool Uncle Stu Balls
+641141	6533072	5755	Action, Adventure, Crime	1964	USA	English	0641141	0057765	The Man from U.N.C.L.E.	The Shark Affair
+1815441	6746038	4821	Crime, Drama, Mystery	2011	USA	English	1815441	1196946	The Mentalist	Red Queen
+1533941	3594611	3488	Comedy	2009	USA	English	1533941	1442464	The Middle	The Scratch
+1613641	3676352	3166	Comedy	2010	USA	English	1613641	1442464	The Middle	Signals
+2158041	6725772	3917	Comedy	2012	USA	English	2158041	1442464	The Middle	The Map
+657241	4058294	2899	Comedy, Family, Romance	1993	USA	English	0657241	0106080	The Nanny	Christmas Episode
+877241	4360193	2834	Comedy	2006	USA	English	0877241	0386676	The Office	Grief Counseling
+1008441	4360191	3078	Comedy	2007	USA	English	1008441	0386676	The Office	Product Recall
+1248741	6395418	3131	Comedy	2009	USA	English	1248741	0386676	The Office	New Boss
+1487741	5704872	3524	Comedy	2009	USA	English	1487741	0386676	The Office	The Promotion
+1765541	4148236	4308	Comedy, News	2011	USA	English	1765541	1717499	The Onion News Network	American Dream
+1681641	3714429	9182	Reality-TV	2010	USA	English	1681641	1561756	The Real L Word	Family Ties
+1601741	3650090	4540	Animation, Comedy, Talk-Show	2010	USA	English	1601741	1553644	The Ricky Gervais Show	Space Monkey
+1669741	3710717	7116	Comedy, Drama, Family	2010	USA	English	1669741	1179817	The Secret Life of the American Teenager	Get Out of Town
+1922341	4200978	8126	Comedy, Drama, Family	2011	USA	English	1922341	1179817	The Secret Life of the American Teenager	Loose Lips
+699541	4328616	5925	Crime, Drama, Thriller	2002	USA	English	0699541	0286486	The Shield	Two Days of Blood
+701041	4388114	2347	Animation, Comedy	1995	USA	English	0701041	0096697	The Simpsons	'Round Springfield
+767441	6649103	2712	Animation, Comedy	2000	USA	English	0767441	0096697	The Simpsons	Days of Wine and D'oh'ses
+701241	3685641	2725	Animation, Comedy	2000	USA	English	0701241	0096697	The Simpsons	The Great Money Caper
+701141	4022826	2225	Animation, Comedy	2002	USA	English	0701141	0096697	The Simpsons	Jaws Wired Shut
+763041	4837526	2150	Animation, Comedy	2002	USA	English	0763041	0096697	The Simpsons	Treehouse of Horror XIII
+784541	4351555	2265	Animation, Comedy	2005	USA	English	0784541	0096697	The Simpsons	Midnight Rx
+705241	4323007	6393	Crime, Drama	1999	USA	English	0705241	0141842	The Sopranos	Down Neck
+711541	6488714	5731	Action, Crime, Drama	1973	USA	English	0711541	0068135	The Streets of San Francisco	Legion of the Lost
+1618341	5799066	2708	Action, Adventure, Comedy	2010	USA	English	1618341	1181917	The Suite Life on Deck	The Silent Treatment
+803441	7025844	1758	Animation, Action, Adventure	1985	USA	English	0803441	0086817	The Transformers	Traitor
+734541	3598890	1878	Fantasy, Horror, Mystery	1961	USA	English	0734541	0052520	The Twilight Zone	A Hundred Yards Over the Rim
+734641	3598923	2423	Fantasy, Horror, Mystery	1962	USA	English	0734641	0052520	The Twilight Zone	The Fugitive
+1127141	3158433	4774	Action, Drama, Thriller	2007	USA	English, French	1127141	0460690	The Unit	Inside Out
+1636341	4797468	3718	Drama, Fantasy, Horror	2010	USA	English	1636341	1405406	The Vampire Diaries	By the Light of the Moon
+1968941	5478677	9290	Game-Show, Music, Reality-TV	2011	USA	English	1968941	1839337	The Voice	The Finals
+743741	6695548	6835	Drama, Family, Romance	1976	USA	English	0743741	0068149	The Waltons	The Fledgling
+745641	5492478	5516	Drama	2003	USA	English	0745641	0200276	The West Wing	Inauguration: Part 2 - Over There
+1380741	4853157	2647	Comedy	2009	USA	English	1380741	0840979	The Whitest Kids U'Know	Episode #3.5
+749441	4815656	7079	Crime, Drama, Thriller	2002	USA	English	0749441	0306414	The Wire	Sentencing
+751141	4308058	3271	Drama, Mystery, Sci-Fi	1993	USA	English	0751141	0106179	The X-Files	Ice
+1530641	3886830	4951	Drama	2009	USA	English	1530641	1440346	Three Rivers	Where We Lie
+1563641	3887750	5016	Drama	2010	USA	English	1563641	1440346	Three Rivers	Case Histories
+1904541	4197284	5796	Documentary	2011	USA	English	1904541	1513168	Through the Wormhole	Does Time Really Exist?
+1888441	4166701	7904	Reality-TV	2011	USA	English	1888441	1427816	Top Chef Masters	Diners to Donors
+1762041	4824030	1543	Animation, Action, Adventure	2010	USA	English	1762041	1659175	Transformers Prime	Darkness Rising: Part 5
+2289541	4837045	1742	Animation, Action, Adventure	2012	USA	English	2289541	1659175	Transformers Prime	Loose Cannons
+1372641	3527625	5129	Drama, Fantasy, Mystery	2009	USA	English, Swedish	1372641	0844441	True Blood	Keep This Party Going
+734841	7054267	4235	Crime, Drama, Mystery	1991	USA	English	0734841	0098936	Twin Peaks	Episode #2.19
+735141	4790661	2388	Comedy, Romance	2005	USA	English	0735141	0369179	Two and a Half Men	A Sympathetic Crotch to Cry On
+1022141	4929186	2905	Comedy, Romance	2007	USA	English	1022141	0369179	Two and a Half Men	Mr. McGlue's Feedbag
+1979141	4574682	3115	Animation, Comedy, Horror	2011	USA	English	1979141	1621748	Ugly Americans	Callie and Her Sister
+2013141	4574849	2834	Animation, Comedy, Horror	2011	USA	English	2013141	1621748	Ugly Americans	Little Ship of Horrors
+1017841	3125118	5318	Comedy, Drama, Romance	2007	USA	English	1017841	0805669	Ugly Betty	East Side Story
+1510641	4349973	6020	Comedy, Drama, Romance	2009	USA	English	1510641	0805669	Ugly Betty	The Wiener, the Bun and the Boob
+1613541	3675238	3179	Comedy, Drama, Romance	2010	USA	English	1613541	1001482	United States of Tara	Explosive Diorama
+2081041	4411161	3135	Comedy	2011	USA	English	2081041	1843323	Up All Night	Parents
+739541	5549953	4374	Crime, Drama, Mystery	2005	USA	English	0739541	0412253	Veronica Mars	Ruskie Business
+1822141	4593856	2893	Comedy, Drama, Family	2011	USA	English	1822141	1604099	Victorious	The Wood
+1137941	3307241	2697	Comedy, Crime, Drama	2008	USA	English, Spanish	1137941	0439100	Weeds	Excellent Treasures
+745341	6002332	1968	Comedy, Sci-Fi	1997	USA	English	0745341	0108988	Weird Science	Stalag 16
+746041	3644836	3430	Comedy	2005	USA	English	0746041	0321018	What I Like About You	Enough Is Enough
+1520241	4334215	4880	Comedy, Crime, Drama	2009	USA	English, French	1520241	1358522	White Collar	The Portrait
+2192941	5460369	3213	Comedy	2012	USA	English	2192941	1850458	Whitney	Mind Games
+748741	4305675	3022	Comedy, Romance	2000	USA	English	0748741	0157246	Will & Grace	Advise and Resent
+748841	4834927	2984	Comedy, Romance	2005	USA	English	0748841	0157246	Will & Grace	Partners
+1256441	3433720	5239	Crime, Drama, Mystery	2009	USA	English	1256441	0321021	Without a Trace	Once Lost
+750241	3598210	3889	Action, Adventure, Drama	1977	USA	English	0750241	0074074	Wonder Woman	I Do, I Do
+751341	4740120	1743	Animation, Action, Family	1996	USA	English	0751341	0103584	X-Men	Storm Front: Part 1
+902941	5649647	2088	Animation, Action, Family	1996	USA	English	0902941	0103584	X-Men	The Lotus and the Steel
+751441	6869039	3623	Action, Adventure, Drama	1997	USA	English	0751441	0112230	Xena: Warrior Princess	A Day in the Life
+751541	6869107	3535	Action, Adventure, Drama	1997	USA	English	0751541	0112230	Xena: Warrior Princess	The Dirty Half Dozen
+752141	6971609	1935	Action, Adventure, Fantasy	1998	USA	English	0752141	0169516	Young Hercules	Girl Trouble
+1635941	3846442	3357	Drama, Mystery, Sci-Fi	2010	USA, Canada	English	1635941	1119644	Fringe	Olivia
+615241	6576224	4499	Action, Drama, Sci-Fi	2002	USA, Canada	English	0615241	0290966	Jeremiah	To Sail Beyond the Stars
+709141	3600107	3302	Action, Adventure, Drama	1999	USA, Canada	English	0709141	0118480	Stargate SG-1	Point of View
+709041	6678583	4733	Action, Adventure, Drama	2005	USA, Canada	English	0709041	0118480	Stargate SG-1	Avalon: Part 2
+567441	6527524	4977	Drama, Romance	1985	USA, UK	English	0567441	0081856	Dynasty	Parental Consent
+1383641	5597650	4823	Crime, Drama, Mystery	2009	USA, UK	English	1383641	0787490	Life on Mars	Everyone Knows It's Windy
+1942641	4223290	3328	Action, Drama, Thriller	2011	USA, UK, South Africa	English, Arabic	1942641	1492179	Strike Back	Project Dawn #2
