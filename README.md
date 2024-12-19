@@ -12,7 +12,10 @@ Cleaning Now and Covid.ipynb: creates testcovid.csv and testnow.csv
 cleaning slayer.ipynb: creates cleaned_slayer.csv
 
 Model Fine-Tuning Code:
-For DistilBERT code and TinyBERT code, the files "Ling 380 Project Model-Fine Tuning <insert model name here> here.ipynb can be run with the created csvs noted above.
+For DistilBERT code and TinyBERT code, the files "Ling 380 Project Model-Fine Tuning <insert model name here> here.ipynb can be run with the created csvs noted above. The Naive Bayes model code is similar and is found in LING380_NaiveBayes.ipynb.
 
-
+Usage Steps: 
+1. Run the data cleaning notebooks to generate the cleaned CSV files.
+2. Use the cleaned CSV files as input for the model fine-tuning notebooks.
+3. Execute the model fine-tuning notebooks to train and evaluate the models.
 
